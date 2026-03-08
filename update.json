@@ -1,9 +1,28 @@
 {
-  "latestVersion": "1.3.3",
-  "minSupportedVersion": "1.1.0",
-  "mandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk",
-  "notes": "Bug fixes.",
-  "publishedAt": "2026-03-08",
-  "appEnabled": true
+  "channels": {
+    "stable": {
+      "release": {
+        "latestVersion": "1.3.3",
+        "minSupportedVersion": "1.1.0",
+        "mandatory": false,
+        "downloadUrl": "https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk",
+        "notes": "Bug fixes.",
+        "publishedAt": "2026-03-08",
+        "appEnabled": true
+      }
+    },
+    "beta": {
+      "release": {
+        "latestVersion": "1.3.3",
+        "minSupportedVersion": "1.1.0",
+        "mandatory": false,
+        "releaseChannel": "beta",
+        "downloadUrl": "https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk",
+        "notes": "Bug fixes.",
+        "publishedAt": "2026-03-08",
+        "buildCommit": "fa92d70ca9c7a27e95b59007fc32ddebd3ccdf95",
+        "appEnabled": true
+      }
+    }
+  }
 }
