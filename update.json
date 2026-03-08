@@ -3,7 +3,7 @@
   "minSupportedVersion": "1.1.0",
   "mandatory": false,
   "downloadUrl": "https://github.com/Anto426/UniappUpstream/raw/refs/heads/main/src/androidApp-release.apk",
-  "notes": "Prima versione beta publica",
+  "notes": "Risolti numerosi problemi",
   "publishedAt": "2026-03-07",
   "appEnabled": true
 }
