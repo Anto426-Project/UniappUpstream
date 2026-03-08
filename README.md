@@ -1,0 +1,100 @@
+<p align="center">
+  <img src="./assets/uniapp-icon.webp" alt="UniApp icon" width="120" height="120">
+</p>
+
+<h1 align="center">UniApp Upstream</h1>
+
+<p align="center">
+  Distribution repository for the Android release channel of <strong>UniApp</strong>.
+  This repository hosts the current APK, the update manifest consumed by the app, and the published release metadata.
+</p>
+
+<p align="center">
+  <a href="./src/release/androidApp-release.apk"><img alt="Download APK" src="https://img.shields.io/badge/Download-APK-1f6f5f?style=for-the-badge"></a>
+  <a href="./update.json"><img alt="Update Manifest" src="https://img.shields.io/badge/Update-JSON-cb5a2e?style=for-the-badge"></a>
+  <a href="https://github.com/Anto426-Project/Uniapp"><img alt="Source Repo" src="https://img.shields.io/badge/Source-UniApp-1b1f23?style=for-the-badge"></a>
+</p>
+
+## Overview
+
+This is the deploy repository for UniApp Android builds.
+It is intended to stay small, stable, and machine-friendly:
+
+- `src/release/` contains the published APK and build metadata
+- `update.json` is the update feed read by the app
+- `README.md` summarizes the current public release
+
+## Current Release
+
+| Field | Value |
+| --- | --- |
+| App | UniApp |
+| Repository | `Anto426-Project/UniappUpstream` |
+| Current version | `1.3.3` |
+| Version code | `1` |
+| Published at | `2026-03-08` |
+| Minimum supported version | `1.1.0` |
+| Mandatory update | `false` |
+| App enabled | `true` |
+| Package name | `com.anto426.uniapp` |
+| Min SDK | `31` |
+| APK file | `src/release/androidApp-release.apk` |
+| APK size | `97.8 MB` |
+
+## Quick Links
+
+- [Download current APK](./src/release/androidApp-release.apk)
+- [Open update manifest](./update.json)
+- [Open build metadata](./src/release/output-metadata.json)
+- [Open source repository](https://github.com/Anto426-Project/Uniapp)
+
+## Release Notes
+
+Bug fixes.
+
+## Repository Layout
+
+```text
+assets/
+  uniapp-icon.webp
+src/
+  release/
+    androidApp-release.apk
+    output-metadata.json
+    baselineProfiles/
+update.json
+README.md
+```
+
+## Update Feed
+
+The application reads `update.json` to decide whether a newer build is available.
+The most relevant fields are:
+
+- `latestVersion`
+- `minSupportedVersion`
+- `mandatory`
+- `downloadUrl`
+- `publishedAt`
+- `notes`
+- `appEnabled`
+
+`downloadUrl` currently points to:
+
+`https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk`
+
+## Publish Flow
+
+This repository is updated automatically by the GitHub Actions workflow in the main UniApp repository.
+Each publish refreshes:
+
+1. the APK under `src/release/`
+2. `output-metadata.json`
+3. `update.json`
+4. this `README.md`
+
+## Notes
+
+- This repository is a release endpoint, not the main development repository.
+- Published files can change on every new release.
+- For source code, issues, and feature work, use `https://github.com/Anto426-Project/Uniapp`.

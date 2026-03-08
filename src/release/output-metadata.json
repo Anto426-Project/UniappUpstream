@@ -12,8 +12,8 @@
       "filters": [],
       "attributes": [],
       "versionCode": 1,
-      "versionName": "1.3.2",
-      "outputFile": "androidApp-release-unsigned.apk"
+      "versionName": "1.3.3",
+      "outputFile": "androidApp-release.apk"
     }
   ],
   "elementType": "File",
@@ -22,14 +22,14 @@
       "minApi": 28,
       "maxApi": 30,
       "baselineProfiles": [
-        "baselineProfiles/1/androidApp-release-unsigned.dm"
+        "baselineProfiles/1/androidApp-release.dm"
       ]
     },
     {
       "minApi": 31,
       "maxApi": 2147483647,
       "baselineProfiles": [
-        "baselineProfiles/0/androidApp-release-unsigned.dm"
+        "baselineProfiles/0/androidApp-release.dm"
       ]
     }
   ],
