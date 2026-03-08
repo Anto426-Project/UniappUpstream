@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="./src/release/androidApp-release.apk"><img alt="Download APK" src="https://img.shields.io/badge/Download-APK-1f6f5f?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk"><img alt="Download APK" src="https://img.shields.io/badge/Download-APK-1f6f5f?style=for-the-badge"></a>
   <a href="./update.json"><img alt="Update Manifest" src="https://img.shields.io/badge/Update-JSON-cb5a2e?style=for-the-badge"></a>
   <a href="https://github.com/Anto426-Project/Uniapp"><img alt="Source Repo" src="https://img.shields.io/badge/Source-UniApp-1b1f23?style=for-the-badge"></a>
 </p>
@@ -43,7 +43,7 @@ It is intended to stay small, stable, and machine-friendly:
 
 ## Quick Links
 
-- [Download current APK](./src/release/androidApp-release.apk)
+- [Download current APK](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk)
 - [Open update manifest](./update.json)
 - [Open build metadata](./src/release/output-metadata.json)
 - [Open source repository](https://github.com/Anto426-Project/Uniapp)
