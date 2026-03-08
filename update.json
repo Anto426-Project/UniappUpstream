@@ -4,5 +4,6 @@
   "mandatory": false,
   "downloadUrl": "https://github.com/Anto426/UniappUpstream/raw/refs/heads/main/src/androidApp-release.apk",
   "notes": "Prima versione beta publica",
-  "publishedAt": "2026-03-07"
+  "publishedAt": "2026-03-07",
+  "appEnabled": true
 }
