@@ -6,63 +6,63 @@
 
 
 <p align="center">
-  <img alt="Beta build" src="https://img.shields.io/static/v1?label=&message=CHANNEL%20BETA&color=d97706&style=for-the-badge">
+  <img alt="Canale beta" src="https://img.shields.io/static/v1?label=&message=CANALE%20BETA&color=d97706&style=for-the-badge">
 </p>
 
 
 <p align="center">
-  Distribution repository for the Android release channel of <strong>UniApp</strong>.
-  This repository hosts the current APK, the update manifest consumed by the app, and the published release metadata.
+  Repository di distribuzione per il canale release Android di <strong>UniApp</strong>.
+  Qui vengono pubblicati l'APK corrente, il manifest degli aggiornamenti usato dall'app e i metadati della release.
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk"><img alt="Stable APK" src="https://img.shields.io/static/v1?label=&message=STABLE%20APK&color=1f6f5f&style=for-the-badge"></a>
-  <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk"><img alt="Beta APK" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
-  <a href="./update.json"><img alt="Update Manifest" src="https://img.shields.io/static/v1?label=&message=UPDATE%20JSON&color=cb5a2e&style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk"><img alt="APK stabile" src="https://img.shields.io/static/v1?label=&message=STABILE%20APK&color=1f6f5f&style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk"><img alt="APK beta" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
+  <a href="./update.json"><img alt="Manifest JSON" src="https://img.shields.io/static/v1?label=&message=MANIFEST%20JSON&color=cb5a2e&style=for-the-badge"></a>
 </p>
 
-## Overview
+## Panoramica
 
-This is the deploy repository for UniApp Android builds.
-It is intended to stay small, stable, and machine-friendly:
+Questo e' il repository di deploy delle build Android di UniApp.
+E' pensato per restare semplice, stabile e leggibile anche da script:
 
-- `src/release/stable/` contains stable APKs and metadata
-- `src/release/beta/` contains beta APKs and metadata
-- `update.json` exposes channel-specific manifests under `channels`
-- `README.md` summarizes the current public release
+- `src/release/stable/` contiene APK e metadati stabili
+- `src/release/beta/` contiene APK e metadati beta
+- `update.json` espone i manifest separati per canale sotto `channels`
+- `README.md` riassume la release pubblica corrente
 
-## Current Release
+## Release Corrente
 
-| Field | Value |
+| Campo | Valore |
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Current version | `1.3.4-beta` |
-| Release channel | `beta` |
+| Versione corrente | `1.3.4-beta` |
+| Canale release | `beta` |
 | Version code | `1` |
-| Published at | `2026-03-08` |
-| Minimum supported version | `1.1.0` |
-| Mandatory update | `false` |
-| App enabled | `true` |
+| Pubblicata il | `2026-03-09` |
+| Versione minima supportata | `1.1.0` |
+| Aggiornamento obbligatorio | `false` |
+| App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
 | Min SDK | `31` |
-| APK file | `src/release/beta/androidApp-release.apk` |
-| APK size | `97.8 MB` |
+| File APK | `src/release/beta/androidApp-release.apk` |
+| Dimensione APK | `97.8 MB` |
 
-## Quick Links
+## Link Rapidi
 
-- [Download current APK](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk)
-- [Current channel metadata](./src/release/beta/output-metadata.json)
-- [Current channel APK path](./src/release/beta/androidApp-release.apk)
-- [Stable APK](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk)
-- [Beta APK](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk)
-- [Open update manifest](./update.json)
+- [Scarica APK corrente](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk)
+- [Metadati del canale corrente](./src/release/beta/output-metadata.json)
+- [Percorso APK del canale corrente](./src/release/beta/androidApp-release.apk)
+- [APK stabile](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk)
+- [APK beta](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk)
+- [Apri il manifest aggiornamenti](./update.json)
 
-## Release Notes
+## Note Di Rilascio
 
 Add support for 2 update channels: stable and beta.
 
-## Repository Layout
+## Struttura Repository
 
 ```text
 assets/
@@ -77,10 +77,10 @@ update.json
 README.md
 ```
 
-## Update Feed
+## Feed Aggiornamenti
 
-The application reads `update.json` to decide whether a newer build is available.
-The most relevant fields are:
+L'app legge `update.json` per capire se esiste una build piu' recente.
+I campi principali sono:
 
 - `channels.stable.release`
 - `channels.beta.release`
@@ -89,21 +89,21 @@ The most relevant fields are:
 - `publishedAt`
 - `buildCommit`
 
-`downloadUrl` currently points to:
+`downloadUrl` punta attualmente a:
 
 `https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk`
 
-## Publish Flow
+## Flusso Di Pubblicazione
 
-This repository is updated automatically by the GitHub Actions workflow in the main UniApp repository.
-Each publish refreshes:
+Questo repository viene aggiornato automaticamente dal workflow GitHub Actions del repository principale di UniApp.
+Ogni pubblicazione aggiorna:
 
-1. the APK under `src/release/stable/` or `src/release/beta/`
-2. the channel-specific `output-metadata.json`
+1. l'APK sotto `src/release/stable/` oppure `src/release/beta/`
+2. il relativo `output-metadata.json`
 3. `update.json`
-4. this `README.md`
+4. questo `README.md`
 
-## Notes
+## Note
 
-- This repository is a release endpoint, not the main development repository.
-- Published files can change on every new release.
+- Questo repository e' un endpoint di release, non il repository principale di sviluppo.
+- I file pubblicati possono cambiare a ogni nuova release.

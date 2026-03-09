@@ -19,8 +19,8 @@
         "releaseChannel": "beta",
         "downloadUrl": "https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk",
         "notes": "Add support for 2 update channels: stable and beta.",
-        "publishedAt": "2026-03-08",
-        "buildCommit": "d3780c62c739c77e7c10480142fe26ed41317b85",
+        "publishedAt": "2026-03-09",
+        "buildCommit": "435e8df9a8d382bdb0ad97be266602d02e6ffaac",
         "appEnabled": true
       }
     }
