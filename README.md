@@ -39,7 +39,7 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | Repository | `Anto426-Project/UniappUpstream` |
 | Versione corrente | `1.4.8-beta` |
 | Canale release | `beta` |
-| Version code | `4` |
+| Version code | `5` |
 | Pubblicata il | `2026-03-11` |
 | Versione minima supportata | `1.4.5-beta` |
 | Aggiornamento obbligatorio | `false` |
