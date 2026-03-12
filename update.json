@@ -13,14 +13,14 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1.5.2-beta",
+        "latestVersion": "1.5.5-beta",
         "minSupportedVersion": "1.5.0-beta",
         "mandatory": true,
         "releaseChannel": "beta",
-        "downloadUrl": "https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/beta/androidApp-release.apk",
+        "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-release.apk",
         "notes": "Changelog 12 Mar 2026:\n- Architettura: migrazione del layer `presentation` verso `domain/logic` con rinomina moduli e test correlati.\n- Dati backend: introdotte policy di accesso/cache (`CACHE_FIRST`, `REMOTE_FIRST`, `STALE_WHILE_REVALIDATE`, `NETWORK_ONLY`) con merge e integrity check.\n- Sicurezza: aggiunta migrazione dati utente verso cifratura applicativa e migliorata gestione persistenza sicura.\n- Stato app: refactor del coordinamento globale con transizioni animate e gestione loading unificata.\n- UI/Auth: aggiornate schermate Login, AppLock, AppBlocked, ForcedUpdate e Beta enrollment con fallback null-safe e UX migliorata.\n- Navigazione/UI: introdotti `AppSceneContainer`, `AppMotion`, miglioramenti AppTopBar e BottomBar per animazioni piu fluide.\n- Localizzazione: conversione estesa di stringhe hardcoded in `stringResource` + aggiornamento `strings.xml`.\n- API remote: uniformati messaggi di errore e fallback localizzati su didattica, feature, survey, transport e update.\n- Notifiche/background: migliorati coordinator notifiche, worker sync e gestione canali Android.\n- Multi-piattaforma: aggiunti `AppScreenControl` e `RuntimeLogcatRecorder` per Android/iOS.",
         "publishedAt": "2026-03-12",
-        "buildCommit": "2d29de81cb6b3dc0b077e29aad711a413dae04c9",
+        "buildCommit": "e8726f8ebbe63688b7a11e2b12347d576b926755",
         "appEnabled": true
       }
     }
