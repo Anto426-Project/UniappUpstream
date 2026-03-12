@@ -37,11 +37,11 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1.5.5-beta` |
+| Versione corrente | `1.5.6-beta` |
 | Canale release | `beta` |
-| Version code | `10` |
+| Version code | `11` |
 | Pubblicata il | `2026-03-12` |
-| Versione minima supportata | `1.5.0-beta` |
+| Versione minima supportata | `1.5.6-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
@@ -61,16 +61,7 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 ## Note Di Rilascio
 
 Changelog 12 Mar 2026:
-- Architettura: migrazione del layer `presentation` verso `domain/logic` con rinomina moduli e test correlati.
-- Dati backend: introdotte policy di accesso/cache (`CACHE_FIRST`, `REMOTE_FIRST`, `STALE_WHILE_REVALIDATE`, `NETWORK_ONLY`) con merge e integrity check.
-- Sicurezza: aggiunta migrazione dati utente verso cifratura applicativa e migliorata gestione persistenza sicura.
-- Stato app: refactor del coordinamento globale con transizioni animate e gestione loading unificata.
-- UI/Auth: aggiornate schermate Login, AppLock, AppBlocked, ForcedUpdate e Beta enrollment con fallback null-safe e UX migliorata.
-- Navigazione/UI: introdotti `AppSceneContainer`, `AppMotion`, miglioramenti AppTopBar e BottomBar per animazioni piu fluide.
-- Localizzazione: conversione estesa di stringhe hardcoded in `stringResource` + aggiornamento `strings.xml`.
-- API remote: uniformati messaggi di errore e fallback localizzati su didattica, feature, survey, transport e update.
-- Notifiche/background: migliorati coordinator notifiche, worker sync e gestione canali Android.
-- Multi-piattaforma: aggiunti `AppScreenControl` e `RuntimeLogcatRecorder` per Android/iOS.
+- Bugfix: Risolti i problemi di rete, timeout e connessione (UnknownHostException) introdotti dal MIUI Battery Saver aggiungendo i permessi di stato network.
 
 ## Struttura Repository
 
