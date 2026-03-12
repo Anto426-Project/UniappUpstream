@@ -13,15 +13,16 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1.5.8-beta",
-        "latestVersionCode": 158,
-        "minSupportedVersion": "1.5.7-beta",
+        "latestVersion": "1.5.9-beta",
+        "latestVersionCode": 159,
+        "minSupportedVersion": "1.5.9-beta",
+        "minSupportedVersionCode": 159,
         "mandatory": true,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-release.apk",
         "notes": "Changelog 12 Mar 2026:\n- Bugs Fix",
         "publishedAt": "2026-03-12",
-        "buildCommit": "d65d255d9f825f79d51ed797af00ed1771e8d3cf",
+        "buildCommit": "db477d28d3e5b3b463a15006147e772afed94079",
         "appEnabled": true
       }
     }
