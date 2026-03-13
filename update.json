@@ -13,16 +13,16 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1-6-3-beta",
-        "latestVersionCode": 165,
-        "minSupportedVersion": "1-6-3-beta",
-        "minSupportedVersionCode": 165,
+        "latestVersion": "1-6-4-beta",
+        "latestVersionCode": 166,
+        "minSupportedVersion": "1-6-4-beta",
+        "minSupportedVersionCode": 166,
         "mandatory": true,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-release.apk",
-        "notes": "Changelog 13 Mar 2026:\n- Fix Unimol wifi firewall",
+        "notes": "Changelog 13 Mar 2026:\n- Fix percentuale carriera",
         "publishedAt": "2026-03-13",
-        "buildCommit": "3c4c7ec336a425607aba7c77093785779776bc1f",
+        "buildCommit": "0c6e9eebc31699525ad1750e85abef2e39d0853b",
         "appEnabled": true
       }
     }

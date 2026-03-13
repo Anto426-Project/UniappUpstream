@@ -37,11 +37,11 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1-6-3-beta` |
+| Versione corrente | `1-6-4-beta` |
 | Canale release | `beta` |
-| Version code | `165` |
+| Version code | `166` |
 | Pubblicata il | `2026-03-13` |
-| Versione minima supportata | `1-6-3-beta` |
+| Versione minima supportata | `1-6-4-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
@@ -61,7 +61,7 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 ## Note Di Rilascio
 
 Changelog 13 Mar 2026:
-- Fix Unimol wifi firewall
+- Fix percentuale carriera
 
 ## Struttura Repository
 
