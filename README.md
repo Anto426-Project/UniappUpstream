@@ -37,11 +37,11 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1.6.1-beta` |
+| Versione corrente | `1.6.2-beta` |
 | Canale release | `beta` |
-| Version code | `162` |
+| Version code | `163` |
 | Pubblicata il | `2026-03-13` |
-| Versione minima supportata | `1.6.1-beta` |
+| Versione minima supportata | `1.6.2-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
@@ -61,7 +61,7 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 ## Note Di Rilascio
 
 Changelog 13 Mar 2026:
-- Aggiornamento automatico certificati TLS.
+- Fix calcolo cfu
 
 ## Struttura Repository
 

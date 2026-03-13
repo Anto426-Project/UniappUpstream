@@ -13,16 +13,16 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1.6.1-beta",
-        "latestVersionCode": 162,
-        "minSupportedVersion": "1.6.1-beta",
-        "minSupportedVersionCode": 161,
+        "latestVersion": "1.6.2-beta",
+        "latestVersionCode": 163,
+        "minSupportedVersion": "1.6.2-beta",
+        "minSupportedVersionCode": 163,
         "mandatory": true,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-release.apk",
-        "notes": "Changelog 13 Mar 2026:\n- Aggiornamento automatico certificati TLS.",
+        "notes": "Changelog 13 Mar 2026:\n- Fix calcolo cfu",
         "publishedAt": "2026-03-13",
-        "buildCommit": "98d3f7f949fdb8ecaf18e873e4086918f2f7cfd2",
+        "buildCommit": "7473fe5a5e80da2fa46fdb2f9d0c8ab53ac02be7",
         "appEnabled": true
       }
     }
