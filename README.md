@@ -39,8 +39,8 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | Repository | `Anto426-Project/UniappUpstream` |
 | Versione corrente | `1.6.5-beta` |
 | Canale release | `beta` |
-| Version code | `167` |
-| Pubblicata il | `2026-03-13` |
+| Version code | `168` |
+| Pubblicata il | `2026-03-14` |
 | Versione minima supportata | `1.6.5-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
@@ -60,8 +60,8 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 
 ## Note Di Rilascio
 
-Changelog 13 Mar 2026:
-- Aggiunte notifiche push
+Changelog 14 Mar 2026:
+- Aggiornamento automatico certificati TLS.
 
 ## Struttura Repository
 

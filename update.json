@@ -14,15 +14,15 @@
     "beta": {
       "release": {
         "latestVersion": "1.6.5-beta",
-        "latestVersionCode": 167,
+        "latestVersionCode": 168,
         "minSupportedVersion": "1.6.5-beta",
         "minSupportedVersionCode": 167,
         "mandatory": true,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-release.apk",
-        "notes": "Changelog 13 Mar 2026:\n- Aggiunte notifiche push",
-        "publishedAt": "2026-03-13",
-        "buildCommit": "7f342a60aefef4cfb4346ae70982583ed3a5486a",
+        "notes": "Changelog 14 Mar 2026:\n- Aggiornamento automatico certificati TLS.",
+        "publishedAt": "2026-03-14",
+        "buildCommit": "1e188a62748118c79bed5b170a3e579b2c9bb80b",
         "appEnabled": true
       }
     }
