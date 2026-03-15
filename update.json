@@ -22,9 +22,9 @@
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-release.apk",
         "notes": "Changelog 14 Mar 2026:\n- Aggiornamento automatico certificati TLS.",
         "publishedAt": "2026-03-15",
-        "buildCommit": "59dd3695224549237b3127aaf2ec2b6aa8e0a7b8",
+        "buildCommit": "b68ff7d9904d0599a6d9a7bc76eb5f7cf6b4a788",
         "appEnabled": true,
-        "description": "UniApp è l'applicazione all-in-one per gli studenti universitari. Gestisci la tua carriera, visualizza il libretto, prenota esami e molto altro, tutto in un'unica interfaccia moderna e veloce."
+        "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia moderna, semplice e veloce."
       }
     }
   }
