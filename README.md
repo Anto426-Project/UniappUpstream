@@ -26,6 +26,19 @@
 UniApp è l'applicazione all-in-one per gli studenti universitari. Gestisci la tua carriera, visualizza il libretto, prenota esami e molto altro, tutto in un'unica interfaccia moderna e veloce.
 
 
+## Screenshot
+
+<p align="center">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-48-44-34_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-48-46-36_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-48-47-89_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-48-49-53_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-48-54-46_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-48-57-13_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-49-06-89_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-51-35-25_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+  <img src="./assets/screenshots/Screenshot_2026-03-15-16-51-40-34_92b74ce0392afcb9dbc7c9e6841482f8.jpg" width="200" style="margin: 10px;" alt="Screenshot">
+</p>
 
 
 ## Panoramica
