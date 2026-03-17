@@ -8,12 +8,17 @@
   "variantName": "release",
   "elements": [
     {
-      "type": "SINGLE",
-      "filters": [],
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
       "attributes": [],
-      "versionCode": 169,
+      "versionCode": 164,
       "versionName": "1.6.5-beta",
-      "outputFile": "androidApp-release.apk"
+      "outputFile": "androidApp-arm64-v8a-release-unsigned.apk"
     }
   ],
   "elementType": "File",
@@ -22,14 +27,14 @@
       "minApi": 28,
       "maxApi": 30,
       "baselineProfiles": [
-        "baselineProfiles/1/androidApp-release.dm"
+        "baselineProfiles/1/androidApp-arm64-v8a-release-unsigned.dm"
       ]
     },
     {
       "minApi": 31,
       "maxApi": 2147483647,
       "baselineProfiles": [
-        "baselineProfiles/0/androidApp-release.dm"
+        "baselineProfiles/0/androidApp-arm64-v8a-release-unsigned.dm"
       ]
     }
   ],
