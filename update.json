@@ -14,15 +14,15 @@
     "beta": {
       "release": {
         "latestVersion": "1.6.9-beta",
-        "latestVersionCode": 174,
+        "latestVersionCode": 175,
         "minSupportedVersion": "1.6.9-beta",
-        "minSupportedVersionCode": 174,
+        "minSupportedVersionCode": 175,
         "mandatory": true,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-arm64-v8a-release.apk",
-        "notes": "Changelog 19 Mar 2026:\n- Improved graphics, implemented multi-career support and added the professors section",
-        "publishedAt": "2026-03-19",
-        "buildCommit": "0dc6d0deaa62744f17f9c001670ec8fd946f0a57",
+        "notes": "Changelog 22 Mar 2026:\n- Risolto problema con gli appelli che risultano prenotabili anche se non lo erano",
+        "publishedAt": "2026-03-22",
+        "buildCommit": "57e43074578dc2d739ca9ffdf80f364caea336b9",
         "appEnabled": true,
         "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Completamente riscritta in Kotlin nativo, utilizza le più recenti tecnologie Material 3 Design e Jetpack Compose per offrire un’esperienza moderna, fluida e intuitiva. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia veloce e curata."
       }
