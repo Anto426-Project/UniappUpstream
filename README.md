@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/MzFiODY1ZjJmZGVkM2Q5ZWRiMDM2NTk5NzEwNGI3M2U6MTc3NDc4MzM2Mg==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/ZmZmY2FhZDAxZjIxMDRkMDAyZGRhMGJkYmMyNGY5Mjg6MTc3NDc4NzE0MA==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/MzFiODY1ZjJmZGVkM2Q5ZWRiMDM2NTk5NzEwNGI3M2U6MTc3NDc4MzM2Mg==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/ZmZmY2FhZDAxZjIxMDRkMDAyZGRhMGJkYmMyNGY5Mjg6MTc3NDc4NzE0MA==/detection>)
 
 
 ## Screenshot
@@ -66,9 +66,9 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1.6.9-beta` |
+| Versione corrente | `1.7.0-beta` |
 | Canale release | `beta` |
-| Version code | `177` |
+| Version code | `178` |
 | Pubblicata il | `2026-03-29` |
 | Versione minima supportata | `1.6.9-beta` |
 | Aggiornamento obbligatorio | `true` |
@@ -89,8 +89,11 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 
 ## Note Di Rilascio
 
-Changelog 28 Mar 2026:
-- Aggiornamento automatico certificati TLS.
+Changelog 29 Mar 2026:
+- Sistemato e corretto il modulo trasporti
+- Ora è possibile effettuare prenotazioni direttamente dall'app
+- Implementato il secure storage per una gestione più sicura dei dati
+- Aggiunto l’aggiornamento automatico dei certificati TLS
 
 ## Struttura Repository
 
