@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk"><img alt="APK stabile" src="https://img.shields.io/static/v1?label=&message=STABILE%20APK&color=1f6f5f&style=for-the-badge"></a>
-  <a href="https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-arm64-v8a-release.apk"><img alt="APK beta" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
+  <a href="https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk"><img alt="APK beta" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
   <a href="./update.json"><img alt="Manifest JSON" src="https://img.shields.io/static/v1?label=&message=MANIFEST%20JSON&color=cb5a2e&style=for-the-badge"></a>
 </p>
 
@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/MjFhZmZjMmU4NWIyNjU3MTU3OTE4NTJhNzU5MGNlYmY6MTc3NDk0NTM1Mg==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/OTlkZmU0Njg5ODJhMGZiNDhkZmFkMTE2MDg0NjMxN2Y6MTc3NDk1MDgxNA==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/MjFhZmZjMmU4NWIyNjU3MTU3OTE4NTJhNzU5MGNlYmY6MTc3NDk0NTM1Mg==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/OTlkZmU0Njg5ODJhMGZiNDhkZmFkMTE2MDg0NjMxN2Y6MTc3NDk1MDgxNA==/detection>)
 
 
 ## Screenshot
@@ -75,16 +75,16 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
 | Min SDK | `29` |
-| File APK | `src/release/beta/androidApp-arm64-v8a-release.apk` |
-| Dimensione APK | `22.6 MB` |
+| File APK | `src/release/beta/androidApp-universal-release.apk` |
+| Dimensione APK | `51.2 MB` |
 
 ## Link Rapidi
 
-- [Scarica APK corrente](https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-arm64-v8a-release.apk)
+- [Scarica APK corrente](https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk)
 - [Metadati del canale corrente](./src/release/beta/output-metadata.json)
-- [Percorso APK del canale corrente](./src/release/beta/androidApp-arm64-v8a-release.apk)
+- [Percorso APK del canale corrente](./src/release/beta/androidApp-universal-release.apk)
 - [APK stabile](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk)
-- [APK beta](https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-arm64-v8a-release.apk)
+- [APK beta](https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk)
 - [Apri il manifest aggiornamenti](./update.json)
 
 ## Note Di Rilascio
@@ -123,7 +123,7 @@ I campi principali sono:
 
 `downloadUrl` punta attualmente a:
 
-`https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-arm64-v8a-release.apk`
+`https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk`
 
 ## Flusso Di Pubblicazione
 
