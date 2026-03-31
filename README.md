@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/OTlkZmU0Njg5ODJhMGZiNDhkZmFkMTE2MDg0NjMxN2Y6MTc3NDk1MDgxNA==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/ZTA1MTQ4NDQ5NWFiNjg4MWY2NTgwZjFjZDM1Mzk3NmY6MTc3NDk4MDU4OA==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/OTlkZmU0Njg5ODJhMGZiNDhkZmFkMTE2MDg0NjMxN2Y6MTc3NDk1MDgxNA==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/ZTA1MTQ4NDQ5NWFiNjg4MWY2NTgwZjFjZDM1Mzk3NmY6MTc3NDk4MDU4OA==/detection>)
 
 
 ## Screenshot
