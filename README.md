@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/NWRkZGM1YWU5ZTNmNzVjYTMxNmZhMTM0OTZkYzE0Y2E6MTc3NDkxMjY5OA==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/OTMyZjI3ZDM3ODBkMjNiNTU4NTVlNzc0YmQxMmU1Mzk6MTc3NDk0MzgyMg==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/NWRkZGM1YWU5ZTNmNzVjYTMxNmZhMTM0OTZkYzE0Y2E6MTc3NDkxMjY5OA==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/OTMyZjI3ZDM3ODBkMjNiNTU4NTVlNzc0YmQxMmU1Mzk6MTc3NDk0MzgyMg==/detection>)
 
 
 ## Screenshot
@@ -69,7 +69,7 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | Versione corrente | `1.7.2-beta` |
 | Canale release | `beta` |
 | Version code | `180` |
-| Pubblicata il | `2026-03-30` |
+| Pubblicata il | `2026-03-31` |
 | Versione minima supportata | `1.7.2-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
