@@ -13,10 +13,10 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1.7.8-beta",
-        "latestVersionCode": 186,
-        "minSupportedVersion": "1.7.8-beta",
-        "minSupportedVersionCode": 186,
+        "latestVersion": "1.7.9-beta",
+        "latestVersionCode": 187,
+        "minSupportedVersion": "1.7.9-beta",
+        "minSupportedVersionCode": 187,
         "mandatory": true,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk",
@@ -27,7 +27,7 @@
         },
         "notes": "Changelog 06 Apr 2026:\n- Varie ottimizazioni per Gemini Nano",
         "publishedAt": "2026-04-06",
-        "buildCommit": "06f0b7fb12b3aee7055e17d13897022be7afb2b2",
+        "buildCommit": "9a41a1672e37df1dee8d979ec127e3af24d52528",
         "appEnabled": true,
         "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Completamente riscritta in Kotlin nativo, utilizza le più recenti tecnologie Material 3 Design e Jetpack Compose per offrire un’esperienza moderna, fluida e intuitiva. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia veloce e curata."
       }
