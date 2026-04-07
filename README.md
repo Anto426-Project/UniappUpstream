@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/NmU3MmQxNzJkZTEzOGRiNjFmZjQ0MTA3YjExYTg1NjQ6MTc3NTUwODE4Mw==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/NTA4ZDE4YzYxZmU3NTUwNjYzYWYzOTQ3ODU3ODNjMjQ6MTc3NTU2ODkzMA==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/NmU3MmQxNzJkZTEzOGRiNjFmZjQ0MTA3YjExYTg1NjQ6MTc3NTUwODE4Mw==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/NTA4ZDE4YzYxZmU3NTUwNjYzYWYzOTQ3ODU3ODNjMjQ6MTc3NTU2ODkzMA==/detection>)
 
 
 ## Screenshot
@@ -65,17 +65,17 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1.7.9-beta` |
+| Versione corrente | `1.8.0-beta` |
 | Canale release | `beta` |
-| Version code | `187` |
-| Pubblicata il | `2026-04-06` |
-| Versione minima supportata | `1.7.9-beta` |
+| Version code | `188` |
+| Pubblicata il | `2026-04-07` |
+| Versione minima supportata | `1.8.0-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
 | Min SDK | `29` |
 | File APK | `src/release/beta/androidApp-universal-release.apk` |
-| Dimensione APK | `97.5 MB` |
+| Dimensione APK | `97.6 MB` |
 
 ## Link Rapidi
 
@@ -88,8 +88,8 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 
 ## Note Di Rilascio
 
-Changelog 06 Apr 2026:
-- Varie ottimizazioni per Gemini Nano
+Changelog 07 Apr 2026:
+- fix
 
 ## Struttura Repository
 

@@ -13,21 +13,21 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1.7.9-beta",
-        "latestVersionCode": 187,
-        "minSupportedVersion": "1.7.9-beta",
-        "minSupportedVersionCode": 187,
+        "latestVersion": "1.8.0-beta",
+        "latestVersionCode": 188,
+        "minSupportedVersion": "1.8.0-beta",
+        "minSupportedVersionCode": 188,
         "mandatory": true,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk",
         "downloadUrlsByAbi": {
           "universal": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk",
-          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-armeabi-v7a-release.apk",
-          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-arm64-v8a-release.apk"
+          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-arm64-v8a-release.apk",
+          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-armeabi-v7a-release.apk"
         },
-        "notes": "Changelog 06 Apr 2026:\n- Varie ottimizazioni per Gemini Nano",
-        "publishedAt": "2026-04-06",
-        "buildCommit": "646b18abff494d4a955c994784965b4c386cec24",
+        "notes": "Changelog 07 Apr 2026:\n- fix",
+        "publishedAt": "2026-04-07",
+        "buildCommit": "a7185aec00a927baeac88a90da3611597de35801",
         "appEnabled": true,
         "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Completamente riscritta in Kotlin nativo, utilizza le più recenti tecnologie Material 3 Design e Jetpack Compose per offrire un’esperienza moderna, fluida e intuitiva. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia veloce e curata."
       }
