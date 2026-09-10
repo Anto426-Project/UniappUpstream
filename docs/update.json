@@ -6,14 +6,14 @@
   "mandatory": true,
   "notes": "- Corretto il crash della home quando non sono disponibili notizie.\n- Ripristinati i test Android e i controlli sul sito prima della pubblicazione",
   "latestVersion": "2.0.3",
-  "latestVersionCode": 1146,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.3%2B1146/androidApp-release.apk",
+  "latestVersionCode": 1147,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.3%2B1147/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.3%2B1146/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.3%2B1147/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "bcf611bfe3a3c73b95796c79efe8472c2a2805ae551140cd6f2431416264c954"
+    "arm64-v8a": "98d6050bd61a27bc346a23bc9ad955c35518f15dd523a456f89800b8d4236007"
   },
-  "publishedAt": "2026-09-10T09:30:21.251989+00:00",
-  "buildCommit": "e787a8b6005473be3e9b38158a6e4ca914784492"
+  "publishedAt": "2026-09-10T11:32:48.030583+00:00",
+  "buildCommit": "91bdef530dc4916075f3b07a902dcbb06c67de86"
 }
