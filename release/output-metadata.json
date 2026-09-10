@@ -11,7 +11,7 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 203,
+      "versionCode": 1146,
       "versionName": "2.0.3",
       "outputFile": "androidApp-release.apk"
     }
